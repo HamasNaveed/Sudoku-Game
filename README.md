@@ -6,7 +6,6 @@ Sudoku Game
 Table of Contents
 
 Features
-Demo
 Installation
 How to Play
 Technologies Used
@@ -20,15 +19,9 @@ Responsive Controls: Click to select cells and use the keyboard to input numbers
 Instructions Screen: Clear rules and gameplay guide accessible via the menu.
 Visual Feedback: Highlights selected cells and displays invalid move messages.
 
-Demo
-(Upload a screenshot of your game to the repository and update the path above.)
+
 Installation
 To run the game locally:
-
-Clone the repository:git clone https://github.com/your-username/sudokygame.git
-
-
-Navigate to the project folder:cd sudokygame
 
 
 Install dependencies:Ensure you have Python 3.6+ installed. Install Pygame and Requests:pip install pygame requests
